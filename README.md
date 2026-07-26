@@ -233,4 +233,5 @@ Built for **Digital Heroes Training Task**
 
 Boini Yadagiri
 
-GitHub:
+### GitHub:
+https://github.com/YadagiriBoini/Page_Pulse-
